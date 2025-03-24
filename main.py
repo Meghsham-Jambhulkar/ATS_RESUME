@@ -28,7 +28,7 @@ def configure_gemini_api(api_key):
     genai.configure(api_key=api_key)
 
 # Configure Gemini AI model with the provided API key
-API_KEY = "AIzaSyD43pGpSwyW3aeHMBJBScu4JGoxXM69cDM"  # Replace with your actual API key
+API_KEY = "____YOUR_API_KEY____"  # Replace with your actual API key
 configure_gemini_api(API_KEY)
 
 # Function to get response from Gemini AI
